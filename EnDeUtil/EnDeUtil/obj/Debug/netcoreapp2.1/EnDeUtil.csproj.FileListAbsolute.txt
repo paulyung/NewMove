@@ -1,0 +1,14 @@
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\bin\Debug\netcoreapp2.1\EnDeUtil.deps.json
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\bin\Debug\netcoreapp2.1\EnDeUtil.runtimeconfig.json
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\bin\Debug\netcoreapp2.1\EnDeUtil.runtimeconfig.dev.json
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\bin\Debug\netcoreapp2.1\EnDeUtil.dll
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.csprojAssemblyReference.cache
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.csproj.CoreCompileInputs.cache
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.RazorAssemblyInfo.cache
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.RazorAssemblyInfo.cs
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.AssemblyInfoInputs.cache
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.AssemblyInfo.cs
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.RazorTargetAssemblyInfo.cache
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\bin\Debug\netcoreapp2.1\EnDeUtil.pdb
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.dll
+C:\Users\1913312\Documents\Visual Studio 2017\Projects\EnDeUtil\EnDeUtil\obj\Debug\netcoreapp2.1\EnDeUtil.pdb
